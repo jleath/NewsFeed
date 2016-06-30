@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="no_content_found">No content found</string>
+    <string name="search_hint">Enter keywords here</string>
+    <string name="input_error">Invalid input!</string>
+    <string name="network_error">No network connection available!</string>
+</resources>
